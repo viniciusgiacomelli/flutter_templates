@@ -1,3 +1,1 @@
-# MIA - Market Intellient Assistant
-
-Sua assistente de mercado inteligente. 
+# Web session navigation template
